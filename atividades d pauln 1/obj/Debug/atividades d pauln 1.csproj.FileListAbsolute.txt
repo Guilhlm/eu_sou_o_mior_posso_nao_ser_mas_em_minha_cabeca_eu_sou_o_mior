@@ -1,0 +1,7 @@
+C:\Users\guilherme.lmaia\source\repos\atividades\atividades d pauln 1\atividades d pauln 1\obj\Debug\atividades d pauln 1.csproj.AssemblyReference.cache
+C:\Users\guilherme.lmaia\source\repos\atividades\atividades d pauln 1\atividades d pauln 1\obj\Debug\atividades d pauln 1.csproj.CoreCompileInputs.cache
+C:\Users\guilherme.lmaia\source\repos\atividades\atividades d pauln 1\atividades d pauln 1\bin\Debug\atividades d pauln 1.exe.config
+C:\Users\guilherme.lmaia\source\repos\atividades\atividades d pauln 1\atividades d pauln 1\bin\Debug\atividades d pauln 1.exe
+C:\Users\guilherme.lmaia\source\repos\atividades\atividades d pauln 1\atividades d pauln 1\bin\Debug\atividades d pauln 1.pdb
+C:\Users\guilherme.lmaia\source\repos\atividades\atividades d pauln 1\atividades d pauln 1\obj\Debug\atividades d pauln 1.exe
+C:\Users\guilherme.lmaia\source\repos\atividades\atividades d pauln 1\atividades d pauln 1\obj\Debug\atividades d pauln 1.pdb
